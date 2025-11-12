@@ -101,3 +101,13 @@ Una vez domines estos fundamentos, trabajaremos en:
 ---
 
 **¡Éxito en tu práctica!**
+---
+
+## 📘 Autor del trabajo
+**Nombre:** Noé Euán Herrera  
+**Materia:** Fundamentos de Programación  
+**Grupo:** Desarrollo de Software y Negocios Digitales  
+**Profesor:** Jorge TSW  
+**Descripción:**  
+He completado todos los ejercicios del archivo `ejercicios.js` siguiendo las instrucciones de la práctica.  
+Todos los tests pasan correctamente en Jest, y los resultados pueden verse en la pestaña **Actions** de GitHub.
